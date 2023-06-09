@@ -34,4 +34,4 @@ java Main
 ![image](img.png)
 
 # Support
-If you have any problems during the project, please contact us at email Olena.Chemerynska.tr.2021@lpnu.ua
+If you have any problems during the project, please contact us at email Veronika.Voitovich.tr.2021@lpnu.ua
